@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7578a84-671f-4d77-8450-cfb0bf99e96f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/TIL_Dairy/20220410_Daily.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c7578a84-671f-4d77-8450-cfb0bf99e96f" name="変更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +66,7 @@
       <workItem from="1652465308734" duration="7265000" />
       <workItem from="1652870312954" duration="375000" />
       <workItem from="1653056048056" duration="99000" />
+      <workItem from="1653144812104" duration="323000" />
     </task>
     <servers />
   </component>
